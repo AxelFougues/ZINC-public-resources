@@ -11,7 +11,7 @@ ZINC is a slick environment to manage, study and enjoy your bio-tech with games,
 It features modernized NFC tools specifically designed for cyborgs.
 ZINC also includes biomagnet features most of which work in tandem with the LODESTONE haptic devices that can be made DIY or ordered online.
 
-## This repo contains
+## 🧾This repo contains
 
 - All public files and information about ZINC
 
