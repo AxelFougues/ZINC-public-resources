@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="244.92264"
+   height="246.82118"
+   viewBox="0 0 64.802445 65.304773"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Logo.svg"
+   inkscape:export-filename="Full500.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="72.12489"
+     inkscape:cy="165.46298"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.352571,-33.370338)">
+    <g
+       id="g247"
+       inkscape:label="Foreground"
+       style="display:inline"
+       transform="matrix(0.77251079,0,0,0.77251079,14.958279,15.019457)"
+       inkscape:export-filename="..\..\..\..\ZINC-public-resources\Branding\Logo.svg"
+       inkscape:export-xdpi="195.98026"
+       inkscape:export-ydpi="195.98026">
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="path234"
+         cx="93.355331"
+         cy="6.9712248"
+         rx="18.946806"
+         ry="18.837286"
+         transform="rotate(44.884354)" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1061"
+         cx="89.582397"
+         cy="-95.804161"
+         rx="8.5109577"
+         ry="8.4617615"
+         transform="rotate(89.884354)" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1063"
+         cx="35.709255"
+         cy="-40.850418"
+         rx="8.5109577"
+         ry="8.4617615"
+         transform="rotate(89.884354)" />
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1065"
+         cx="35.709255"
+         cy="-95.804161"
+         rx="8.5109577"
+         ry="8.4617615"
+         transform="rotate(89.884354)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="M 95.967597,80.8779 95.893217,44.026751"
+         id="path1067" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="M 87.414293,35.532889 49.38416,35.609649"
+         id="path1069" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.20034;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse1584"
+         cx="98.388062"
+         cy="-33.525295"
+         rx="9.9703951"
+         ry="9.9127626"
+         transform="rotate(89.884354)" />
+    </g>
+  </g>
+</svg>
