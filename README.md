@@ -11,6 +11,10 @@ ZINC is a slick environment to manage, study and enjoy your bio-tech with games,
 
 It features modernized NFC tools specifically designed for cyborgs.
 ZINC also includes biomagnet features most of which work in tandem with the LODESTONE haptic devices that can be made DIY or ordered online.
+### Goals
+ - To create a user-friendly platform and a sufficient audience to allow cool experiments in implant-based AR/VR, gaming, performance tests/comparison, and accessories.
+ - To provide specific tools needed in the community but not available in mainstream apps.
+ - To educate and promote innovation.
 
 # 🧾This repo contains
 
@@ -19,7 +23,7 @@ ZINC also includes biomagnet features most of which work in tandem with the LODE
 - [The WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
 
 # 🧲Lodestones and ZINC
-Multiple biomagnet features on ZINC require a Lodestone these are open source, plug n' play devices I designed. You can get on or make one!
+Multiple biomagnet features on ZINC require a Lodestone these are open source, plug n' play devices I designed. You can buy one or make one!
  
  - [About Lodestones](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 
