@@ -1,0 +1,40 @@
+{
+   "list":[
+      {
+         "readableName":"Dangerous Things",
+         "url":"https://dangerousthings.com/"
+      },
+      {
+         "readableName":"Dsruptive",
+         "url":"https://dsruptive.com/"
+      },
+      {
+         "readableName":"Cyberise.Me",
+         "url":"https://twitter.com/CyberiseMe?s=20"
+      },
+      {
+         "readableName":"Vivokey",
+         "url":"https://vivokey.com/"
+      },
+      {
+         "readableName":"Walletmor",
+         "url":"https://walletmor.com/"
+      },
+      {
+         "readableName":"Upgraded Humans",
+         "url":"https://digiwell.com/upgraded-humans/"
+      },
+      {
+         "readableName":"VeriChip",
+         "url":"http://www.verichipcorp.com/products.html"
+      },
+      {
+         "readableName":"Biohack.me",
+         "url":"https://biohack.me/"
+      },
+      {
+         "readableName":"Custom",
+         "url":"https://github.com/"
+      }
+   ]
+}

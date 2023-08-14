@@ -1,0 +1,1300 @@
+{
+  "list": [
+    {
+      "readableName": "xNT",
+      "url": "https://dangerousthings.com/product/xnt/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400700_xNT-product-image-416x416.png",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "NTAG216",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "xSIID",
+      "url": "https://dangerousthings.com/product/xsiid/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/promotion_xsiid-colors-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 15.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "NTAG I2C plus 2k",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 6
+    },
+    {
+      "readableName": "xM1",
+      "url": "https://dangerousthings.com/product/xm1/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400704_xM1-product-image-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 13.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "Mifare Classic 1K",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "xSLX",
+      "url": "https://dangerousthings.com/product/xslx/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007059-xSLX-Promo-416x416.png",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "xDF2",
+      "url": "https://dangerousthings.com/product/xdf2/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400727_xDF2-promo-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 13.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "Spark 2",
+      "url": "https://dangerousthings.com/product/vivokey-spark/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007400_Spark2-Primary-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 14.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things",
+        "Vivokey"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "Spark",
+      "url": "https://vivokey.com/spark/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/promo_x-series-quarter-euro-transponder-416x416.png",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 14.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things",
+        "Vivokey"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "Apex Flex",
+      "url": "https://dangerousthings.com/product/apex-flex/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product-apex-flex-in-hand-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 7.5,
+      "ySizeMM": 28.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things",
+        "Vivokey"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexSecure",
+      "url": "https://dangerousthings.com/product/flexsecure/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/flexSecure-in-pouch_1920x1920-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 7.5,
+      "ySizeMM": 28.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexNT",
+      "url": "https://dangerousthings.com/product/flexnt/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400715_flexNT-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 8.0,
+      "ySizeMM": 22.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "NTAG216",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexM1",
+      "url": "https://dangerousthings.com/product/flexm1/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_010188_flexm1-lego-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 8.0,
+      "ySizeMM": 38.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "Magic Mifare Classic 1K",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexClass",
+      "url": "https://dangerousthings.com/product/flexclass/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_10290_flexClass-chip-side-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 8.0,
+      "ySizeMM": 38.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexDF",
+      "url": "https://dangerousthings.com/product/flexdf/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400716_flexDF-being-held-in-hand-square-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 7.0,
+      "ySizeMM": 32.0,
+      "zSizeMM": 0.5,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "DESFire EV1",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "flexDF2",
+      "url": "https://dangerousthings.com/product/flexdf2/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/new-flex-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 7.5,
+      "ySizeMM": 28.0,
+      "zSizeMM": 0.5,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "DESFire EV2",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "xEM",
+      "url": "https://dangerousthings.com/product/xem/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400701_xEM-product-image-416x416.png",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 1
+    },
+    {
+      "readableName": "xHT",
+      "url": "https://dangerousthings.com/product/xht/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007189-xHT-Promo-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 1
+    },
+    {
+      "readableName": "flexEM",
+      "url": "https://dangerousthings.com/product/flexem/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_85129400744_flexem-coins-416x408.jpg",
+      "isCustom": false,
+      "xSizeMM": 20.0,
+      "ySizeMM": 20.0,
+      "zSizeMM": 1.2999999523162842,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 1
+    },
+    {
+      "readableName": "NExT",
+      "url": "https://dangerousthings.com/product/next/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007264_NExT-xNTxEM-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 14.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "NTAG216",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 3
+    },
+    {
+      "readableName": "xMagic",
+      "url": "https://dangerousthings.com/product/xmagic/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/xMagic-injector-exploded-1080x10801x1-blur-hex-background-416x416.png",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 15.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "Magic Mifare Classic 1K",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 3
+    },
+    {
+      "readableName": "flexMT",
+      "url": "https://dangerousthings.com/product/flexmt/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_010240_flexMT-on-reader-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 33.0,
+      "ySizeMM": 33.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "Magic Mifare Classic 1K",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 3
+    },
+    {
+      "readableName": "flexNM",
+      "url": "https://dangerousthings.com/product/flexmn/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_10270_flexMN-in-hand-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 33.0,
+      "ySizeMM": 33.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "Magic NTAG",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 3
+    },
+    {
+      "readableName": "xBT",
+      "url": "https://dangerousthings.com/product/xbt/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/promo_arm-pit-large.png",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 32
+    },
+    {
+      "readableName": "BeUno",
+      "url": "https://dsruptive.com/openbeta/",
+      "imageURL": "https://dsruptive.com/wp-content/uploads/2022/08/Untitled-design-27.png",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 13.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dsruptive"
+      ],
+      "tags": 34
+    },
+    {
+      "readableName": "Walletmor",
+      "url": "https://walletmor.com/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/walletmor-top-implant-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 8.0,
+      "ySizeMM": 32.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things",
+        "Walletmor"
+      ],
+      "tags": 66
+    },
+    {
+      "readableName": "TeslaFlex",
+      "url": "https://dangerousthings.com/product/teslaflex/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007387_xG3-Coins-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 7.0,
+      "ySizeMM": 32.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "Titan",
+      "url": "https://dangerousthings.com/product/titan/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_10225-titan-image-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 4.5,
+      "ySizeMM": 2.799999952316284,
+      "zSizeMM": 4.5,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 16
+    },
+    {
+      "readableName": "xG3 v1",
+      "url": "https://dangerousthings.com/product/xg3/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007387_xG3-Coins-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 15.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 16
+    },
+    {
+      "readableName": "xG3 v2",
+      "url": "https://dangerousthings.com/product/xg3/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_851294007387_xG3-Coins-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 15.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 16
+    },
+    {
+      "readableName": "xLED",
+      "url": "https://dangerousthings.com/product/xled/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_010010_xLED-Implant-416x416.jpg",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 13.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 4
+    },
+    {
+      "readableName": "Sense52",
+      "url": "https://twitter.com/CyberiseMe",
+      "imageURL": "https://pbs.twimg.com/media/DvZUXa-V4AAjh9c?format=jpg&name=small",
+      "isCustom": false,
+      "xSizeMM": 3.0,
+      "ySizeMM": 2.0,
+      "zSizeMM": 3.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Cyberise.Me"
+      ],
+      "tags": 16
+    },
+    {
+      "readableName": "flexNExT",
+      "url": "https://dangerousthings.com/product/flexnext/",
+      "imageURL": "https://dangerousthings.com/wp-content/uploads/product_010231_flexNExT-blinky-on-hand-768x768.jpg",
+      "isCustom": false,
+      "xSizeMM": 35.0,
+      "ySizeMM": 35.0,
+      "zSizeMM": 0.4000000059604645,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "NTAG216",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 7
+    },
+    {
+      "readableName": "NXTPAY",
+      "url": "https://digiwell.com/nxtpay",
+      "imageURL": "https://digiwell.com/media/image/d1/39/7f/NXTPAY_3DRender_ImageBOT.png",
+      "isCustom": false,
+      "xSizeMM": 16.0,
+      "ySizeMM": 26.0,
+      "zSizeMM": 0.5,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Upgraded Humans"
+      ],
+      "tags": 66
+    },
+    {
+      "readableName": "xIC",
+      "url": "https://digiwell.com/dangerous-things-nfc-type-5-implant-xic",
+      "imageURL": "https://digiwell.com/media/image/b8/7d/21/xIC.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0999999046325685,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0999999046325685,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "Dangerous Things"
+      ],
+      "tags": 2
+    },
+    {
+      "readableName": "VeriChip",
+      "url": "http://www.verichipcorp.com/",
+      "imageURL": "https://digiwell.com/media/image/b8/7d/21/xIC.jpg",
+      "isCustom": false,
+      "xSizeMM": 2.0,
+      "ySizeMM": 12.0,
+      "zSizeMM": 2.0,
+      "typicalInfo": {
+        "ID": "",
+        "technologies": [
+          1,
+          6,
+          4
+        ],
+        "manufacturer": "NXP Semiconductors (DE)",
+        "scanDuration": 0,
+        "versionData": "",
+        "writable": true,
+        "storageSize": 0,
+        "ndefMessage": {
+          "Success": false,
+          "Error": 0,
+          "records": [
+
+          ]
+        },
+        "rawContents": [
+
+        ],
+        "icName": ""
+      },
+      "typicalIC": "",
+      "brands": [
+        "VeriChip"
+      ],
+      "tags": 1
+    }
+  ]
+}
