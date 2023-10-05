@@ -23,9 +23,9 @@ ZINC also includes biomagnet features most of which work in tandem with the LODE
 - [The WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
 
 # 🧲Lodestones and ZINC
-Multiple biomagnet features on ZINC require a Lodestone these are open source, plug n' play devices I designed. You can buy one or make one!
+Multiple biomagnet features on ZINC require a Lodestone. They are open source sister project that provides plug n' play tools for magnet implants. You can buy one or make one!
  
- - [About Lodestones](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
+ - [The Lodestone project](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 
 # 🌐Links
 
