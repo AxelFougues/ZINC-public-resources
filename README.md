@@ -1,9 +1,9 @@
 ![Logo](https://github.com/AxelFougues/ZINC-public-resources/blob/main/Branding/Banner.png)
 
-### 📲[Get ZINC on Google Play](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
-### 💚[Support ZINC on Patreon](https://www.patreon.com/AxelFougues)
-### 🧲[Get a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
-### 📚[ZINC tutorials and technical info on the WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
+### 📲 [Get ZINC on Google Play](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
+### 💚 [Support ZINC on Patreon](https://www.patreon.com/AxelFougues)
+### 🧲 [Get a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
+### 📚 [ZINC tutorials and technical info on the WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
 
 # 🔍About
 A community-driven app, developed independently, for implantable technologies and human augmentations.
