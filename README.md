@@ -7,10 +7,13 @@
 
 # 🔍About
 A community-driven app, developed independently, for implantable technologies and human augmentations.
-ZINC is a slick environment to manage, study and enjoy your bio-tech with games, alternate reality experiences, low-level tools, and standardized tests.
+ZINC is a slick environment to manage, study, and enjoy your bio-tech with games, alternate reality experiences, low-level hacking tools, and standardized tests.
 
-It features modernized NFC tools specifically designed for cyborgs.
-ZINC also includes biomagnet features most of which work in tandem with the LODESTONE haptic devices that can be made DIY or ordered online.
+We aim to support all commercial implants as well as to give you the freedom to include your own projects and hacks. 
+In that mindset, the app is both very user-friendly superficially but also extremely open to mods and hacks by exposing a lot of data through saved files behind the scenes.
+ZINC features implant tracking and management as well as modernized NFC tools specifically designed for biotech.
+ZINC also includes many biomagnet features most of which work in tandem with the open-source LODESTONE haptic devices that can be made DIY or ordered online.
+
 ### Goals
  - To create a user-friendly platform and a sufficient audience to allow cool experiments in implant-based AR/VR, gaming, performance tests/comparison, and accessories.
  - To provide specific tools needed in the community but not available in mainstream apps.
@@ -23,7 +26,7 @@ ZINC also includes biomagnet features most of which work in tandem with the LODE
 - [The WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
 
 # 🧲Lodestones and ZINC
-Multiple biomagnet features on ZINC require a Lodestone. They are open source sister project that provides plug n' play tools for magnet implants. You can buy one or make one!
+Multiple biomagnet features on ZINC require a Lodestone. They are an open-source sister project that provides plug n' play tools for magnet implants. You can buy one or make one!
  
  - [The Lodestone project](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 
