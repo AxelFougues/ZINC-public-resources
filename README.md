@@ -17,7 +17,7 @@ ZINC also includes many biomagnet features most of which work in tandem with the
 ### Goals
  - To create a user-friendly platform and a sufficient audience to allow cool experiments in implant-based AR/VR, gaming, performance tests/comparison, and accessories.
  - To provide specific tools needed in the community but not available in mainstream apps.
- - To educate and promote innovation.
+ - To educate and promote curiosity.
 
 # 🧾This repo contains
 
