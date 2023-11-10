@@ -1,6 +1,6 @@
 ![Logo](https://github.com/AxelFougues/ZINC-public-resources/blob/main/Branding/Banner.png)
 
-### 📲 [Get ZINC on Google Play](https://play.google.com/store/apps/details?id=com.AzApps.ZINC)
+<p align="center"><a href='https://play.google.com/store/apps/details?id=com.AzApps.ZINC&hl=af&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></p>
 ### 💚 [Support ZINC on Patreon](https://www.patreon.com/AxelFougues)
 ### 🧲 [Get a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
 ### 📚 [ZINC tutorials and technical info on the WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
