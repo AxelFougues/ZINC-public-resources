@@ -4,7 +4,7 @@
 
 ### 💚 [Support ZINC on Patreon](https://www.patreon.com/axelfougues)
 ### 🧲 [Get a LODESTONE](https://github.com/AxelFougues/Lodestone-biomagnet-tools)
-### 📚 [Tutorials and Specs on the WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
+### 📚 [Tutorials and Documentation on the WIKI](https://github.com/AxelFougues/ZINC-public-resources/wiki)
 
 # 🔍About
 A community-driven app, developed independently, for implantable technologies and human augmentations.
