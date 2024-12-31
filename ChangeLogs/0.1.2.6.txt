@@ -1,5 +1,4 @@
-Rainbow patch:
-
+Rainbow patch
 - Unify UI theme
 - Fix lack of contrast on some buttons
 - Disable "accounts" tab in My Upgrades
